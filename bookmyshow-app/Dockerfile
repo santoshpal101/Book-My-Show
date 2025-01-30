@@ -7,19 +7,17 @@ WORKDIR /app
 # Copy package.json and package-lock.json
 COPY package.json package-lock.json ./
 
-# Fix PostCSS issue by installing compatible versions
-RUN npm install postcss@8.4.21 postcss-safe-parser@6.0.0 --legacy-peer-deps
-
 # Install dependencies
 RUN npm install
 
 # Copy the entire project
 COPY . .
 
-# Expose port 3000 for external access
+# Expose port 3000
 EXPOSE 3000
 
-# Set environment variable
+# Set environment variable to disable OpenSSL errors
+ENV NODE_OPTIONS=--openssl-legacy-provider
 ENV PORT=3000
 
 # Start the application
