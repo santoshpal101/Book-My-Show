@@ -22,9 +22,8 @@ In this **DevOps project**, I have demonstrated how to **deploy a Book My Show A
 2. **Phase 2** - Deployment of App to EKS Cluster with Monitoring
 
 ---
-
-### 📂 GitHub Repo Link:  
-[**BookMyShow App**](#)
+### 🔗 GitHub Repository:  
+[**KastroVKiran/Book-My-Show**]([https://github.com/KastroVKiran/Book-My-Show.git])  
 
 ### 📹 Book My Show Project Video:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtu.be/GyoI6-I68aQ])
