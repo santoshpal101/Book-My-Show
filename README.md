@@ -26,7 +26,7 @@ In this **DevOps project**, I have demonstrated how to **deploy a Book My Show A
 https://github.com/KastroVKiran/Book-My-Show.git
 
 ### 📹 Book My Show Project Video:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtu.be/GyoI6-I68aQ])
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/hBGVwa8MY4A)
 
 ---
 ### 📺 Docker Playlist Video Link:  
@@ -65,4 +65,3 @@ After deploying the app, please share your opinion on LinkedIn along with the Pr
 ## Happy learning!  
 
 **KASTRO KIRAN V**
-
