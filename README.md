@@ -19,31 +19,33 @@ In this **DevOps project**, I have demonstrated how to **deploy a Book My Show A
 ### Project Stages:
 
 1. **Phase 1** - Deployment of App to Docker Container
-2. **Phase 2** - Deployment of App to K8S Cluster with Monitoring
+2. **Phase 2** - Deployment of App to EKS Cluster with Monitoring
 
 ---
 
 ### 📂 GitHub Repo Link:  
 [**BookMyShow App**](#)
 
-### 📹 DevOps Project Video Link:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/GyoI6-I68aQ)
-
-### 📺 Docker Playlist Video Link:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
+### 📹 Book My Show Project Video:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)]([https://youtu.be/GyoI6-I68aQ])
 
 ---
+### 📺 Docker Playlist Video Link:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLs-PsDpuAuTeNx3OgGQ1QrpNBo-XE6VBh)
 
 ## 📂 Other DevOps Projects
 
 ### 🟠 **SWIGGY App Project**:  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/x55z7rk0NAU)
 
-### 🔵 **SonarQube Video Link**:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=sonarqube&logoColor=white)](https://youtu.be/ScdedztTaAU)
+### 🟠 **Zomato App Project**:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/GyoI6-I68aQ)
 
-### 🟡 **Nexus Video Link**:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=nexus&logoColor=white)](https://youtu.be/opJAfDOCZuI)
+### 🔵 **Jenkins + Terraform + EKS Cluster Integration**:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=sonarqube&logoColor=white)](https://youtu.be/DV79JyFbQE8)
+
+### 🟡 **AWS 3 Tier Architecture Project**:  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=nexus&logoColor=white)](https://youtu.be/Oj-Hr_aulKA)
 
 ---
 
@@ -64,5 +66,5 @@ After deploying the app, please share your opinion on LinkedIn along with the Pr
 ## Happy learning!  
 <img src="https://media.licdn.com/dms/image/v2/D5603AQHJB_lF1d9OSw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718971147172?e=1735776000&v=beta&t=HC_e0eOufPvf8XQ0P7iI9GDm9hBSIh5FwQaGsL_8ivo" alt="Kastro Profile Image" width="100" height="100" style="border-radius:50%;">
 
-KASTRO KIRAN V
+**KASTRO KIRAN V**
 
