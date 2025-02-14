@@ -1,7 +1,6 @@
 # 🚀 **DevOps Project: Book My Show App Deployment**  
-![BookMyShow](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/BookMyShow_Logo.svg/1280px-BookMyShow_Logo.svg.png)
 
-Welcome to the **Book My Show App Deployment** project! This project demonstrates how to deploy a **Book My Show-like application** using modern DevOps tools and practices, following a **DevSecOps** approach.  
+Welcome to the **Book My Show App Deployment** project! This project demonstrates how to deploy a **Book My Show-clone application** using modern DevOps tools and practices, following a **DevSecOps** approach.  
 
 ---
 
