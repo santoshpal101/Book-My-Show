@@ -9,3 +9,14 @@
 *.tfstate.json
 *.tfstate.backup
 *.tfstate.backup.*  
+.terraform.tfstate
+.terraform.tfstate.*
+*.tfstate.backup
+*.tfstate.backup.*
+*.tfstate.*
+*.tfvars
+*.tfvars.json  
+*.tfstate.json
+*.tfstate.backup
+.gitignore
+*.tfstate.backup.* 
